@@ -603,8 +603,6 @@ class MyClient(botpy.Client):
             
 if __name__ == "__main__":
     # 通过预设置的类型，设置需要监听的事件通道
-    # intents = botpy.Intents.none()
-    # intents.public_guild_messages=True
 
     # 通过kwargs，设置需要监听的事件通道
     intents = botpy.Intents.all()
