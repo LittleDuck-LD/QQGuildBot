@@ -1,0 +1,14 @@
+#机器人的appid
+appid: "xxxx"
+#机器人的token
+token: "xxxx"
+#Openai的APIKEY
+OpenAi_ApiKey: "xxxx"
+#要调用Openai的模型
+Openai_Model: "gpt-3.5-turbo"
+#Openai回答温度设置
+Openai_Temperature: "0.75"
+#冷却时间
+CoolDown_Time: "2"
+#AI回答开关：1=开，0=关
+Enable_AI: "1"
